@@ -1,2 +1,4 @@
 # Weather-App
-SImple weather app
+Simple weather app
+
+To make it work, just open index.html with Live Server.
